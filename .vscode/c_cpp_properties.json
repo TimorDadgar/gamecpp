@@ -3,7 +3,8 @@
     {
       "name": "windows-gcc-x64",
       "includePath": [
-        "${workspaceFolder}/**"
+        "${workspaceFolder}/**",
+		"C:/KUNSKAP/CODING_TRAINING/C++/gamecpp/Libraries/SDL2-2.26.3/include"
       ],
       "compilerPath": "C:/Users/Admin/MinaProgram/MinGW/bin/gcc.exe",
       "cStandard": "${default}",
