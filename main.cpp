@@ -3,5 +3,5 @@
 
 int main(){
 	tryFunc();
-	printf("lmao1");
+	printf("lmao2");
 }
